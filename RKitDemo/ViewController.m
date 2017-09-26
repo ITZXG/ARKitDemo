@@ -31,6 +31,7 @@
     
     // Set the scene to the view
     self.sceneView.scene = scene;
+    NSLog(@"hahahhah");
 }
 
 - (void)viewWillAppear:(BOOL)animated {
